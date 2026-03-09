@@ -57,3 +57,10 @@ SELECT * FROM Students;
 • Purpose: Manages transactions.
 
 • Commands: `COMMIT`, `ROLLBACK`, `SAVEPOINT`
+
+
+---
+### 📅 Day 3: Data Types & Basic Syntax
+Today I learned how to define a schema and insert records.
+- **Data Types:** `INT`, `VARCHAR`, `DECIMAL`.
+- **Commands:** `CREATE` (DDL) and `INSERT` (DML).
