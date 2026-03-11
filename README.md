@@ -60,14 +60,14 @@ SELECT * FROM Students;
 
 
 ---
-### 📅 Data Types & Basic Syntax
+### 📅 Day 3: Data Types & Basic Syntax
 Today I learned how to define a schema and insert records.
 - **Data Types:** `INT`, `VARCHAR`, `DECIMAL`.
 - **Commands:** `CREATE` (DDL) and `INSERT` (DML).
 
 
 ---
-### 📅 Filtering Data with WHERE & Operators
+### 📅 Day 4: Filtering Data with WHERE & Operators
 Today I explored how to retrieve specific data by applying filters and conditions.
 
 - **WHERE Clause:** Used to filter records based on specific conditions.
