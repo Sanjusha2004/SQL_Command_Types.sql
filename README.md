@@ -60,7 +60,19 @@ SELECT * FROM Students;
 
 
 ---
-### 📅 Day 3: Data Types & Basic Syntax
+### 📅 Data Types & Basic Syntax
 Today I learned how to define a schema and insert records.
 - **Data Types:** `INT`, `VARCHAR`, `DECIMAL`.
 - **Commands:** `CREATE` (DDL) and `INSERT` (DML).
+
+
+---
+### 📅 Filtering Data with WHERE & Operators
+Today I explored how to retrieve specific data by applying filters and conditions.
+
+- **WHERE Clause:** Used to filter records based on specific conditions.
+- **Comparison Operators:** `=`, `!=`, `>`, `<`, `>=`, `<=`
+- **Logical Operators:** `AND`, `OR`, `NOT`
+- **Special Operators:** - `BETWEEN`: Filter values within a range.
+    - `IN`: Specify multiple possible values.
+    - `LIKE`: Search for specific patterns using wildcards (`%`, `_`).
