@@ -76,3 +76,12 @@ Today I explored how to retrieve specific data by applying filters and condition
 - **Special Operators:** - `BETWEEN`: Filter values within a range.
     - `IN`: Specify multiple possible values.
     - `LIKE`: Search for specific patterns using wildcards (`%`, `_`).
+ 
+
+---
+### 📅 Day 5: Modifying & Deleting (ALTER, UPDATE, DELETE, TRUNCATE, DROP)
+Today I learned how to manage changes in both data and table structure.
+- **ALTER:** To modify table schema.
+- **UPDATE:** To edit existing records.
+- **DELETE vs TRUNCATE:** Removing specific rows vs. wiping all data.
+- **DROP:** Deleting the entire table from the database.
