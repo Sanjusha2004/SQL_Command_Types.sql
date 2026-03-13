@@ -85,3 +85,15 @@ Today I learned how to manage changes in both data and table structure.
 - **UPDATE:** To edit existing records.
 - **DELETE vs TRUNCATE:** Removing specific rows vs. wiping all data.
 - **DROP:** Deleting the entire table from the database.
+
+
+
+### 📅 Day 6: Aggregate Functions
+Today I learned how to summarize data using built-in SQL functions.
+
+| Function | Purpose | Example Use Case |
+| :--- | :--- | :--- |
+| **COUNT** | To find the total number of records | Total active users |
+| **SUM & AVG** | To calculate totals and averages for numeric data. | Total monthly revenue |
+| **MIN/MAX** | To identify the highest and lowest values in a dataset| Highest & Lowest prices |
+| **Aliasing (As)** | Renaming output columns for better readability | 
