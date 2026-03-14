@@ -87,6 +87,7 @@ Today I learned how to manage changes in both data and table structure.
 - **DROP:** Deleting the entire table from the database.
 
 
+---
 
 ### 📅 Day 6: Aggregate Functions
 Today I learned how to summarize data using built-in SQL functions.
@@ -97,3 +98,15 @@ Today I learned how to summarize data using built-in SQL functions.
 | **SUM & AVG** | To calculate totals and averages for numeric data. | Total monthly revenue |
 | **MIN/MAX** | To identify the highest and lowest values in a dataset| Highest & Lowest prices |
 | **Aliasing (As)** | Renaming output columns for better readability | 
+
+
+---
+### 📅 Day 7: Grouping, Filtering & Sorting
+Moving beyond simple queries to organized data analysis.
+- **GROUP BY:** Categorizing data into logical groups.
+- **HAVING:** Filtering groups based on aggregate conditions (Used where `WHERE` fails).
+- **ORDER BY:** Sorting results (`ASC` / `DESC`).
+- **LIMIT & OFFSET:** Managing large datasets by skipping or restricting rows.
+
+### Flow of execution
+FROM ➡️ WHERE ➡️ GROUP BY ➡️ HAVING ➡️ SELECT ➡️ ORDER BY ➡️ LIMIT
