@@ -110,3 +110,12 @@ Moving beyond simple queries to organized data analysis.
 
 ### Flow of execution
 FROM ➡️ WHERE ➡️ GROUP BY ➡️ HAVING ➡️ SELECT ➡️ ORDER BY ➡️ LIMIT
+
+
+---
+### 📅 Day 8: Window Functions
+Learned how to perform calculations across a set of table rows that are related to the current row.
+- **OVER():** The heart of window functions.
+- **PARTITION BY:** Grouping data without collapsing rows.
+- **ROW_NUMBER(), RANK(), DENSE_RANK():** Different ways to sequence and rank data.
+- **Benefits:** Allows comparing individual records against group statistics (like Average or Sum) in the same view.
