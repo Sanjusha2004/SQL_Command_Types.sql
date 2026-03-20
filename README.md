@@ -119,3 +119,12 @@ Learned how to perform calculations across a set of table rows that are related 
 - **PARTITION BY:** Grouping data without collapsing rows.
 - **ROW_NUMBER(), RANK(), DENSE_RANK():** Different ways to sequence and rank data.
 - **Benefits:** Allows comparing individual records against group statistics (like Average or Sum) in the same view.
+
+
+---
+### 📅 Day 9: Advanced Window Functions (Navigational & Statistical)
+Explored functions that allow for sophisticated data comparison and distribution analysis.
+- **LAG & LEAD:** Accessed data from preceding and succeeding rows (crucial for trend analysis).
+- **NTILE:** Segmented datasets into equal groups/buckets.
+- **PERCENT_RANK:** Calculated the relative rank of rows as a percentage.
+- **Value Functions:** Used `FIRST_VALUE` and `NTH_VALUE` to retrieve specific data points within a partition.
