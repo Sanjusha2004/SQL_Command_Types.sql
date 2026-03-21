@@ -128,3 +128,12 @@ Explored functions that allow for sophisticated data comparison and distribution
 - **NTILE:** Segmented datasets into equal groups/buckets.
 - **PERCENT_RANK:** Calculated the relative rank of rows as a percentage.
 - **Value Functions:** Used `FIRST_VALUE` and `NTH_VALUE` to retrieve specific data points within a partition.
+
+
+
+---
+### 📅 Day 10: CTEs, Views, and Constraints
+Focused on database structure, code organization, and data integrity.
+- **CTEs (WITH clause):** Used for creating temporary result sets to make complex queries readable.
+- **Views:** Created virtual tables to simplify repetitive queries and enhance security.
+- **Constraints:** Implemented `PRIMARY KEY`, `FOREIGN KEY`, `CHECK`, and `UNIQUE` to ensure data quality and prevent errors.
