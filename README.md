@@ -60,14 +60,14 @@ SELECT * FROM Students;
 
 
 ---
-### 📅 Day 3: Data Types & Basic Syntax
+### Data Types & Basic Syntax
 Today I learned how to define a schema and insert records.
 - **Data Types:** `INT`, `VARCHAR`, `DECIMAL`.
 - **Commands:** `CREATE` (DDL) and `INSERT` (DML).
 
 
 ---
-### 📅 Day 4: Filtering Data with WHERE & Operators
+### Filtering Data with WHERE & Operators
 Today I explored how to retrieve specific data by applying filters and conditions.
 
 - **WHERE Clause:** Used to filter records based on specific conditions.
@@ -79,7 +79,7 @@ Today I explored how to retrieve specific data by applying filters and condition
  
 
 ---
-### 📅 Day 5: Modifying & Deleting (ALTER, UPDATE, DELETE, TRUNCATE, DROP)
+### Modifying & Deleting (ALTER, UPDATE, DELETE, TRUNCATE, DROP)
 Today I learned how to manage changes in both data and table structure.
 - **ALTER:** To modify table schema.
 - **UPDATE:** To edit existing records.
@@ -89,7 +89,7 @@ Today I learned how to manage changes in both data and table structure.
 
 ---
 
-### 📅 Day 6: Aggregate Functions
+### Aggregate Functions
 Today I learned how to summarize data using built-in SQL functions.
 
 | Function | Purpose | Example Use Case |
@@ -101,7 +101,7 @@ Today I learned how to summarize data using built-in SQL functions.
 
 
 ---
-### 📅 Day 7: Grouping, Filtering & Sorting
+### Grouping, Filtering & Sorting
 Moving beyond simple queries to organized data analysis.
 - **GROUP BY:** Categorizing data into logical groups.
 - **HAVING:** Filtering groups based on aggregate conditions (Used where `WHERE` fails).
@@ -113,7 +113,7 @@ FROM ➡️ WHERE ➡️ GROUP BY ➡️ HAVING ➡️ SELECT ➡️ ORDER BY �
 
 
 ---
-### 📅 Day 8: Window Functions
+### Window Functions
 Learned how to perform calculations across a set of table rows that are related to the current row.
 - **OVER():** The heart of window functions.
 - **PARTITION BY:** Grouping data without collapsing rows.
@@ -122,7 +122,7 @@ Learned how to perform calculations across a set of table rows that are related 
 
 
 ---
-### 📅 Day 9: Advanced Window Functions (Navigational & Statistical)
+### Advanced Window Functions (Navigational & Statistical)
 Explored functions that allow for sophisticated data comparison and distribution analysis.
 - **LAG & LEAD:** Accessed data from preceding and succeeding rows (crucial for trend analysis).
 - **NTILE:** Segmented datasets into equal groups/buckets.
@@ -132,8 +132,16 @@ Explored functions that allow for sophisticated data comparison and distribution
 
 
 ---
-### 📅 Day 10: CTEs, Views, and Constraints
+### CTEs, Views, and Constraints
 Focused on database structure, code organization, and data integrity.
 - **CTEs (WITH clause):** Used for creating temporary result sets to make complex queries readable.
 - **Views:** Created virtual tables to simplify repetitive queries and enhance security.
 - **Constraints:** Implemented `PRIMARY KEY`, `FOREIGN KEY`, `CHECK`, and `UNIQUE` to ensure data quality and prevent errors.
+
+
+---
+### Joins and Set Operators
+Mastered the art of combining data from multiple sources.
+- **Joins:** Implemented `INNER`, `LEFT`, `RIGHT`, and `FULL` joins to merge tables based on keys.
+- **Set Operators:** Used `UNION`, `INTERSECT`, and `EXCEPT` to combine or compare result sets from different queries.
+- **Key Insight:** Joins expand data horizontally (adding columns), while Set Operators expand data vertically (adding rows).
