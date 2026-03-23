@@ -143,5 +143,13 @@ Focused on database structure, code organization, and data integrity.
 ### Joins and Set Operators
 Mastered the art of combining data from multiple sources.
 - **Joins:** Implemented `INNER`, `LEFT`, `RIGHT`, and `FULL` joins to merge tables based on keys.
+
+
+---
+### Subqueries and Recursive CTEs
+Explored advanced logic to handle nested data and hierarchies.
+- **Subqueries:** Implemented Scalar and Correlated subqueries for dynamic filtering.
+- **Recursive CTEs:** Mastered the `WITH RECURSIVE` syntax to handle hierarchical data and generate sequences.
+- **Logic:** Used recursion to navigate employee-manager relationships and solve problems that require looping in SQL.
 - **Set Operators:** Used `UNION`, `INTERSECT`, and `EXCEPT` to combine or compare result sets from different queries.
 - **Key Insight:** Joins expand data horizontally (adding columns), while Set Operators expand data vertically (adding rows).
