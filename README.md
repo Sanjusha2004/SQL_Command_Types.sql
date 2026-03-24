@@ -153,3 +153,9 @@ Explored advanced logic to handle nested data and hierarchies.
 - **Logic:** Used recursion to navigate employee-manager relationships and solve problems that require looping in SQL.
 - **Set Operators:** Used `UNION`, `INTERSECT`, and `EXCEPT` to combine or compare result sets from different queries.
 - **Key Insight:** Joins expand data horizontally (adding columns), while Set Operators expand data vertically (adding rows).
+
+
+### SQL Automation
+- **Procedures:** Streamlined repetitive tasks like "Monthly Appraisals."
+- **Functions:** Built a "Discount Calculator" for reusable query logic.
+- **Triggers:** Implemented an "Audit Log" to track data changes automatically.
