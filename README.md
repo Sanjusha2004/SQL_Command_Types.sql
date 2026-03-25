@@ -1,3 +1,11 @@
+# 🏆 Certification Milestone
+I am thrilled to share that I have officially completed the **SQL for Beginners** course by Scaler Topics!
+
+![SQL Certificate](./Certificates/image_0027e7.png) 
+
+
+---
+
 📊 SQL Commands Showcase: From Structure to Control
 Welcome to my SQL learning journey! This repository is dedicated to exploring and documenting the different types of SQL commands used to manage and manipulate databases.
 
