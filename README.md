@@ -1,7 +1,7 @@
 # 🏆 Certification Milestone
 I am thrilled to share that I have officially completed the **SQL for Beginners** course by Scaler Topics!
 
-![SQL Certificate](./Certificates/SQL_BY_SCALER) 
+![SQL Certificate](./SQL_BY_SCALER.png)
 
 
 ---
